@@ -82,7 +82,7 @@ A personal resume/portfolio page built using HTML and CSS.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LateshDev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LateshDev&show_icons=true&theme=nord" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LateshDev&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=LateshDev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
