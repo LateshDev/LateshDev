@@ -77,6 +77,26 @@ A personal resume/portfolio page built using HTML and CSS.
 ![Skills](https://skillicons.dev/icons?i=html,css,js)
 
 <br/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LateshDev&show_icons=true&theme=nord" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LateshDev&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=LateshDev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LateshDev&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
+</div>
+
+<br/>
 
 
 
