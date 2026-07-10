@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Latesh%20Padaliya&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Latesh%20Padaliya&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/LateshDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%26+the+DOM;HTML+%2B+CSS+Enthusiast;Creating+Simple%2C+Useful+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
