@@ -77,7 +77,8 @@ A personal resume/portfolio page built using HTML and CSS.
 ![Skills](https://skillicons.dev/icons?i=html,css,js)
 
 <br/>
-## 📊 GitHub Stats
+
+ 📊 GitHub Stats
 
 <div align="center">
 
@@ -87,15 +88,6 @@ A personal resume/portfolio page built using HTML and CSS.
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LateshDev&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
-</div>
-
-<br/>
-
 
 
 ## 📈 Contribution Activity
