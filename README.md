@@ -39,7 +39,6 @@ const latesh = {
 
 Developed a simple text editor application with basic Notepad functionalities.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LateshDev&repo=simple-text-editor&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Simple Text Editor Repo Card"/>
 
 | Layer | Technology |
 |-------|-----------|
@@ -55,7 +54,6 @@ Developed a simple text editor application with basic Notepad functionalities.
 
 A personal resume/portfolio page built using HTML and CSS.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LateshDev&repo=resume&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Resume Repo Card"/>
 
 | Layer | Technology |
 |-------|-----------|
