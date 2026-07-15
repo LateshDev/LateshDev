@@ -60,7 +60,7 @@ A personal resume/portfolio page built using HTML and CSS.
 | Structure | HTML |
 | Styling | CSS |
 
-🔗 [Code](https://github.com/LateshDev/resume)
+🔗 [Code](https://github.com/LateshDev/Resume)
 
 <br/>
 
