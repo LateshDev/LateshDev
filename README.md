@@ -50,7 +50,7 @@ A clean and responsive resume landing page showcasing profile, skills, and proje
 
 ---
 
-### 📄 Resume Website
+### 📄 Resume 
 
 A personal resume/portfolio page built using HTML and CSS.
 
