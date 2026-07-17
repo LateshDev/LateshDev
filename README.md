@@ -35,18 +35,18 @@ const latesh = {
 
 ## 🚀 Featured Projects
 
-### 📝 Simple Text Editor
+### 📄 Resume Landing
 
-Developed a simple text editor application with basic Notepad functionalities.
+A clean and responsive resume landing page showcasing profile, skills, and projects.
+
+| Layer     | Technology        |
+|-----------|------------------|
+| Structure | HTML             |
+| Styling   | CSS              |
+| Logic     | JavaScript, DOM  |
 
 
-| Layer | Technology |
-|-------|-----------|
-| Structure | HTML |
-| Styling | CSS |
-| Logic | JavaScript, DOM |
-
-🔗 [Code](https://github.com/LateshDev/simple-text-editor)
+🔗 [Code](https://github.com/LateshDev/Resume-landing)
 
 ---
 
